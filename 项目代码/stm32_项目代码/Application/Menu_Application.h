@@ -1,0 +1,8 @@
+#ifndef __MENU_APP_H_
+#define __MENU_APP_H_
+
+// º¯ÊýÉùÃ÷
+void Sensor_App(void);
+void DHT11_App(void);
+
+#endif
