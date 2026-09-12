@@ -3,12 +3,12 @@
         {
             "name": "Target 1",
             "includePath": [
-                "c:\\Users\\moew726\\Desktop\\火星课程\\oled系统\\Start",
-                "c:\\Users\\moew726\\Desktop\\火星课程\\oled系统\\Library",
-                "c:\\Users\\moew726\\Desktop\\火星课程\\oled系统\\User",
-                "c:\\Users\\moew726\\Desktop\\火星课程\\oled系统\\System",
-                "c:\\Users\\moew726\\Desktop\\火星课程\\oled系统\\Hardware",
-                "c:\\Users\\moew726\\Desktop\\火星课程\\oled系统\\Application",
+                "${workspaceFolder}/Start",
+                "${workspaceFolder}/Library",
+                "${workspaceFolder}/User",
+                "${workspaceFolder}/System",
+                "${workspaceFolder}/Hardware",
+                "${workspaceFolder}/Application",
                 "C:\\Program Files\\c51\\ARM\\ARMCC\\include",
                 "C:\\Program Files\\c51\\ARM\\ARMCC\\include\\rw"
             ],
